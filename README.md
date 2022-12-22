@@ -9,7 +9,7 @@ It focuses on running the tests while comparing between different engines or cha
 
 The changes introduced and tested/compared could be utterly limitless, versions, instance types, disk types, vpc peerings, regions etc. The idea behind this effort is to give you the ability to visualize the before/after paradigm so that you can make informed decisions on which to go for.
 
-Get started by going through the [MANUAL](vault-guides/operations/benchmarking/wrk-core-vault-operations/operations/benchmarking/wrk-core-vault-operations/MANUAL.md)
+Get started by going through the [MANUAL](https://github.com/itsouvalas/vault-guides/blob/master/operations/benchmarking/wrk-core-vault-operations/MANUAL.md)
 
 
 ## Sources/Acknowledgments
