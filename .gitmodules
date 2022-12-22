@@ -1,0 +1,3 @@
+[submodule "vault-guides"]
+	path = vault-guides
+	url = git@github.com:itsouvalas/vault-guides.git
